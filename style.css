@@ -15,6 +15,7 @@ body {
     background-repeat: no-repeat;
     height: max-content;
     width: auto;
+    scroll-behavior: smooth;
 }
 
 nav {
